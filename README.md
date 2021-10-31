@@ -1,4 +1,4 @@
-### Hi there 👋
+### Choi-JJunho 👋
 
 <!--
 **Choi-JJunho/Choi-JJunho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Choi-JJunho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-JJunho&show_icons=true&theme=tokyonight)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junho5336)](https://solved.ac/junho5336/)
