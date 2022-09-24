@@ -27,9 +27,9 @@
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=junho5336)](https://velog.io/@junho5336)
 
-  ## 📊 Github Stats 📊
+  ## 📊 Leetcode 📊
   
-![Choi-JJunho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-JJunho&show_icons=true&theme=tokyonight)
+![LeetCode Stats](https://leetcard.jacoblin.cool/junho5336?theme=unicorn&font=Noto%20Sans&ext=heatmap)
 
   ## 🥇 Boj Rank 🥇
   
