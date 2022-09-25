@@ -29,7 +29,7 @@
 
   ## 📊 Leetcode 📊
   
-[![LeetCode Stats](https://leetcard.jacoblin.cool/junho5336?theme=unicorn&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/junho5336/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/junho5336?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/junho5336/)
 
   ## 🥇 Boj Rank 🥇
   
