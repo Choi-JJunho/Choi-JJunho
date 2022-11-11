@@ -27,15 +27,6 @@
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=junho5336)](https://velog.io/@junho5336)
 
-  ## 📊 Leetcode 📊
-  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/junho5336?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/junho5336/)
-
-  ## 🥇 Boj Rank 🥇
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junho5336)](https://solved.ac/junho5336/)
-
-  
   ## 🙋‍♂️About Me🙋‍♂️
   
   <div>
