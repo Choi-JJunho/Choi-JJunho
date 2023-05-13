@@ -36,6 +36,10 @@
     <a href="https://www.facebook.com/profile.php?id=100010011462344">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/> 
     </a>
+    <a href="https://juno-wiki.gitbook.io/wiki/">
+      <img src="https://img.shields.io/badge/%E2%9B%B3TIL-GitBook-important"/> 
+    </a>
+    
     
   </div>
   
