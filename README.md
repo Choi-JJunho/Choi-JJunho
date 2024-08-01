@@ -6,10 +6,14 @@
   
   ## 👉 About Me 👈
 
--  NEXTERS 25th (2024.07 ~ Now)<br>
--  Woowahan Tech Course, Backend (2023.02 ~ 2023.11)<br>
--  BCSDLab (Korea University of Technology and Education IT Club)<br>
--  Korea University of Technology and Education (2019.03 ~ Now)<br>
+-  NEXTERS 25th, BackEnd (2024.07 ~ Now)
+-  Cho-log Study, Manager (2024.01 ~ Now)
+-  Woowahan Tech Course, Backend (2023.02 ~ 2023.11)
+-  BCSDLab (Korea University of Technology and Education IT Club)
+  -  BackEnd Track Lead (2024.01 ~ 2024.06)
+  -  Education Lead (2024.01 ~ Now)
+  -  Club Lead (2020.01 ~ Now)
+-  Korea University of Technology and Education (2019.03 ~ Now)
 
   ## 🛠 Tech Stack 🛠
 
