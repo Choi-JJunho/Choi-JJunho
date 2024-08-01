@@ -10,9 +10,9 @@
 -  Cho-log Study, Manager (2024.01 ~ Now)
 -  Woowahan Tech Course, Backend (2023.02 ~ 2023.11)
 -  BCSDLab (Korea University of Technology and Education IT Club)
+    -  Club Lead (2020.01 ~ Now)
     -  BackEnd Track Lead (2024.01 ~ 2024.06)
     -  Education Lead (2024.01 ~ Now)
-    -  Club Lead (2020.01 ~ Now)
 -  Korea University of Technology and Education (2019.03 ~ Now)
 
   ## 🛠 Tech Stack 🛠
