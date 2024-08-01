@@ -1,15 +1,16 @@
-<div align="center">
+### Welcome to Choi-JJunho's Github 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Choi-JJunho%20Github&fontSize=90)
-
-### Choi-JJunho의 Github 입니다👋
-
-👀이렇게 누추한곳에 귀한분이 
+👀 이렇게 누추한곳에 귀한분이 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoi-JJunho&count_bg=%2358CB36&title_bg=%23555555&icon=buzzfeed.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-  명이나 오셨네요👀
-
-
+  명이나 오셨네요 👀
   
+  ## 👉 About Me 👈
+
+-  NEXTERS 25th (2024.07 ~ Now)<br>
+-  Woowahan Tech Course, Backend (2023.02 ~ 2023.11)<br>
+-  BCSDLab (Korea University of Technology and Education IT Club)<br>
+-  Korea University of Technology and Education (2019.03 ~ Now)<br>
+
   ## 🛠 Tech Stack 🛠
 
   <div>
@@ -21,7 +22,7 @@
 
   </div>
   
-  ## 🙋‍♂️About Me🙋‍♂️
+  ## 🙋‍♂️ More 🙋‍♂️
   
   <div>
     <a href="https://everydayidid.tistory.com/">
@@ -40,8 +41,6 @@
     
   </div>
   
-  ## 🥇 BOJ Rank 🥇
+  ## 🥇 Algorithm 🥇
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junho5336)](https://solved.ac/junho5336/)
-
-</div>
