@@ -13,6 +13,7 @@
     -  Club Lead (2020.01 ~ Now)
     -  BackEnd Track Lead (2024.01 ~ 2024.06)
     -  Education Lead (2024.01 ~ Now)
+    -  BackEnd Regular Developer (2020.02 ~ Now)
 -  Korea University of Technology and Education (2019.03 ~ Now)
 
   ## 🛠 Tech Stack 🛠
