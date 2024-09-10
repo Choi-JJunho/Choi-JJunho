@@ -6,7 +6,8 @@
   
   ## 👉 About Me 👈
 
--  NEXTERS 25th, BackEnd (2024.07 ~ Now)
+-  NEXTERS 26th, CEO (2024.09 ~ Now)
+-  NEXTERS 25th, BackEnd (2024.07 ~ 2024.08)
 -  Cho-log Study, Manager (2024.01 ~ Now)
 -  Woowahan Tech Course, Backend (2023.02 ~ 2023.11)
 -  BCSDLab (Korea University of Technology and Education IT Club)
