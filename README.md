@@ -2,7 +2,7 @@
 
 > **함께 일하기 좋은 문화를 만들기 위해 노력하는 개발자 최준호입니다 :)**
 
-portfolio가 궁금하면 아래 링크를 참고해주세요 👉 **[junogarden.com/portfolio](https://junogarden.com/portfolio)**
+portfolio가 궁금하면 아래 링크를 참고해주세요 👉 **[junogarden.com/portfolio](https://junogarden.com/?utm_source=github&utm_medium=profile)**
 
 | 항목 | 내용 |
 |------|------|
